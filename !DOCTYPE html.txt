@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+    <meta charset= "utf-8">
+    <title>Stefany</title>
+</head>
+<body style="background-color: rgb(96, 208, 223);">
+    <header>
+    <h6><p style="color: beige; font-size: 40px;">Stefany Daniela Martinez Martinez</p></h6>
+    <div style="display: flex;justify-content: last baseline;">
+    </div>
+    <h1><p style="color: rgb(14, 117, 214);">MIS GUSTOS</p></h1>
+    </header>
+    <nav>
+        <ul>
+            <ol><li><h1><p style="color: rgb(230, 30, 180);">1. Me gustan las gomitas</p></h1></li>
+            <li><h1><p style="color: rgb(230, 30, 180);">2. Me gustan los tacos</p></h2></li>
+            <li><h3><p style="color: rgb(230, 30, 180);">3. Me gustan las peliculas de terror</p></h3></li>
+            <li><h4><p style="color: rgb(230, 30, 180);">4. Me gustan los atardeceres</p></h4></li>
+            <li><h5><p style="color: rgb(230, 30, 180);">5. Me gustan los chocolates</p></h5></li>
+            <li><h6><p style="color: rgb(230, 30, 180);">6. Me gusta convivir con mi familia</p></h6></li>
+            <li><h1><p style="color: rgb(230, 30, 180);">7. Me gustan los girasoles</p></h1></li>
+            <li><h2><p style="color: rgb(230, 30, 180);">8. Me gustan las peliculas de amor</p></h2></li>
+            <li><h3><p style="color: rgb(230, 30, 180);">9. Me gusta jugar con mis amigos</p></h3></li>
+            <li><h4><p style="color: rgb(230, 30, 180);">10. Me gusta escuchar musica</p></h4></li></ol>
+            <a  href="https://www.google.com/goto?url=CAESrAEB6zswFeNIuw5Q8BsqWzNMYn0YiCfEfck3NF3nkPrsCwzLMhxWcc4Zdml9cpISg9ruHb81lP1oS-UAqoLmOjjlnMO6Ol_3lOJMN8KwClF-wqpzVDS1NsvwGmk_ZcWMvEsiaWne_vkttz5qWjXgWuXqRRCqR9EDnZqlwjP6sOmAgSaXqFoFIILnrInOBxIk3WbbXEFjieyHjLl1L6_IdqzWsLko57drowLMGvpN"_blank>visita esta pagina para saber mas de kitty</a>
+            
+            <a href="https://www.google.com/goto?url=CAESYwHrOzAV_0GSdC4q0llPh6JvxBixDXEItr48jstZ5ODNhQ1UmKWTiTz5XXb8UwIFYJ4VVAn6-xDxDlazvm3F7hxthtJuDf2EfRbiwqyeJlYBxeLuBAWYsQFakfVm8FALiOBVrQ"_blank>aventuras de hello kitty</a>
+           
+            <a href="https://www.google.com/goto?url=CAESpwEB6zswFX9JjQkZKAXiNInIhEjLifNyh3Nu9HcrPNT1eLRC5wlT9SVVxEQzljn5N8sVEJ2JeBXAVamxcygsBoyxBqOe4Qj05jPDOpvkBKUbn2UQvjaAB5cN9i9SqQCAhKQMTqQjkAYQjABgo31zvJmyajtvipI2LkFs1dXCuHyyfyp2Y2bcfMoyXDE5ize2slHpQw1TwTVDbMzaIbIYiWedclPi4RdbjQ"_blank >historia de hello kitty</a>
+            <video width="640" height="360" controls>
+            <source src="c:\Users\PC39\Downloads\Download.mp4">
+            </video>
+          <div style="margin-bottom: 40px;">
+         <audio controls>
+          <source src="c:\Users\PC39\Downloads\Luis Miguel - _La Incondicional_ (Video Oficial)(MP3_128K).mp3">
+         </source>
+         </audio>
+          </div>
+        </nav>
+        <section>
+        </section>
+        <P id="nombre">Stefany Daniela Martinez Martinez</P>
+        <P id="twiter">@steff_dann0</P>
+        <P id="correo">@stefanydanis90</P>
+    
